@@ -43,7 +43,23 @@ It provides insights into total sales, outlet types, item visibility, and custom
 ---
 
 ## 🖼️ Dashboard Preview
-![Blinkit Dashboard](Screenshot.png)
+<img width="1368" height="775" alt="image" src="https://github.com/user-attachments/assets/f5a9caa5-fa55-4237-b010-42be4e105b49" />
+
+
+---
+
+---
+
+## 🚀 How to Open the Dashboard
+1. Download the `.pbix` file from this repository.  
+2. Open it in **Microsoft Power BI Desktop**.  
+3. Explore the visuals and interact with filters.
+
+---
+
+## 👤 Author
+**Your Name**  
+🔗 [GitHub Profile](https://github.com/JayenPatil)
 
 ---
 
