@@ -50,13 +50,6 @@ It provides insights into total sales, outlet types, item visibility, and custom
 
 ---
 
-## 🚀 How to Open the Dashboard
-1. Download the `.pbix` file from this repository.  
-2. Open it in **Microsoft Power BI Desktop**.  
-3. Explore the visuals and interact with filters.
-
----
-
 ## 👤 Author
 **Your Name**  
 🔗 [GitHub Profile](https://github.com/JayenPatil)
